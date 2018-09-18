@@ -54,7 +54,7 @@ Default time picker configurations.
 | ------------- |--------------|---------|
 | Hour          | `h`          | 12-hour format, no zero padding; you can add zero padding for hours less than 10 by setting the option `hourPadding` to `true`  |
 |               | `hh`         | 24-hour format |
-| Minute        | `mm          | 30      |
+| Minute        | `mm`         | 30      |
 | AM/PM         | `t`          | am      |
 |               | `tt`         | AM      |
 
